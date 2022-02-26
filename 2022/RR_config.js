@@ -14,7 +14,7 @@ var config_data = `
       "Event":{
         "code":"e",
         "type":"event",
-        //"defaultValue":"2022 SFR",//
+        "defaultValue":"2022 SFR",
         "required":"true",
         //"disabled":"false"
       },
