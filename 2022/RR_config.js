@@ -16,7 +16,7 @@ var config_data = `
         "type":"event",
         "defaultValue":"2022 SFR",
         "required":"true",
-        "disabled":"false"
+        "disabled":"true"
       },
       "Match Level":{
         "code":"l",
