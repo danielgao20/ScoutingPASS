@@ -12,9 +12,9 @@ var config_data = `
         "required":"true"
       },
       "Event":{
-        "code":"s", //"code":"e",
+        "code":"e",
         "type":"event",
-        "defaultValue":"2022 SFR",
+        //"defaultValue":"2022 SFR",
         "required":"true",
         //"disabled":"false"
       },
